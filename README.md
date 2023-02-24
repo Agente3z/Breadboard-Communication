@@ -19,6 +19,9 @@ The python program is an utility that helps communication
 
 The dictionary is inside "dictionary.txt"
 
+You need 5V and a 250~Ohm resistance
+The main switch begins the transmission
+
 Circuit:
 
 
