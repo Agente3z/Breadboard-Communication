@@ -5,8 +5,6 @@ Communication protocol between two breadboards linked with 8 wires
 ## Python utility
 The python program is an utility that helps communication
 
-![](https://i.imgur.com/gulaz5g.gif)
-
 ## Tables
 | Instruction | Code |
 | ------------- | ------------- |
